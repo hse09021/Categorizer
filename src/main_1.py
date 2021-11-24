@@ -6,12 +6,13 @@ import tensorflow.keras
 import serial
 import time
 
+# Setup the serial port
 arduino = serial.Serial('com8', 9600)
 
 # Load the model
 model = load_model('keras_model.h5')
 
-#웹캠 임포트
+#Import webcam
 #capture = cv2.VideoCapture(0)
 capture=cv2.VideoCapture(0, cv2.CAP_DSHOW)
 capture.open(0)
@@ -19,7 +20,7 @@ capture.set(cv2.CAP_PROP_FRAME_WIDTH,320)
 capture.set(cv2.CAP_PROP_FRAME_HEIGHT,240)
 
 
-#웹캠 이미지 처리
+#Image processing webcam
 def preprocessing(frame):
     size=(224,224)
     frame_resized=cv2.resize(frame,size,interpolation=cv2.INTER_AREA)
@@ -27,7 +28,7 @@ def preprocessing(frame):
     frame_reshaped=frame_nomalized.reshape((1,224,224,3))
     return frame_reshaped
 
-#예측
+#prediction
 def predict(frame):
     prediction = model.predict(frame)
     return prediction
