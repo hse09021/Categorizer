@@ -19,7 +19,6 @@ capture.open(0)
 capture.set(cv2.CAP_PROP_FRAME_WIDTH,320)
 capture.set(cv2.CAP_PROP_FRAME_HEIGHT,240)
 
-
 #Image processing webcam
 def preprocessing(frame):
     size = (224, 224)
@@ -33,7 +32,6 @@ def predict(frame):
     prediction = model.predict(frame)
     return prediction
 
-
 while True:
     ret, frame = capture.read()
     detection = "None"
@@ -42,18 +40,13 @@ while True:
     if cv2.waitKey(100) > 0:
         break
 
-############################################################################
-
-
     preprocessed = preprocessing(frame)
     prediciton = predict(preprocessed)
-
     
     #prediction[0,0] == Can
     #prediction[0,1] == Bottle
     #prediction[0,2] == Bg
-    
-    
+        
     if (prediciton[0,0] < prediciton[0,2] and prediciton[0,1] < prediciton[0,2]):
         print("Bg")
     elif(prediciton[0, 0] < prediciton[0, 1] and prediciton[0, 2] < prediciton[0, 1]):
@@ -61,10 +54,7 @@ while True:
     else:
         detection = "Can"
 
-
     print(detection)
-
-###################################################################
 
     if detection == "Bottle":
         var = '1'
