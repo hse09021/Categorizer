@@ -35,6 +35,7 @@
 
 ### 필요한 기술 요소
 ![image](https://user-images.githubusercontent.com/51695816/145291528-dab74700-8839-408c-8f2c-c6468bc2de1c.png)
+
 ### 구현 방안 및 개발 방향
 본 장치의 작동을 보여주기 위한 시연장치를 제작할 것입니다. 아래와 같은 과정을 통해 구현할 것입니다.
 ```
@@ -54,7 +55,9 @@
 
 ### 시연 영상
 https://user-images.githubusercontent.com/51695816/145302653-acd188c7-5fa9-4533-8095-abf7dc866942.mp4
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uG-Ktd_xKt0?raw=true" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uG-Ktd_xKt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 결론
 ### 보고 내용 요약
