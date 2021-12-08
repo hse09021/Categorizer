@@ -1,16 +1,16 @@
 #include <Servo.h>
 
-Servo classifier;
+Servo door;
 Servo lift;
 
 int data;
 
 void setup() {
   Serial.begin(9600);
-  classifier.attach(9);
+  door.attach(9);
   lift.attach(8);
   lift.write(90);
-  classifier.write(90);
+  door.write(90);
 }
 
 void loop() {
@@ -19,11 +19,11 @@ void loop() {
     data = Serial.read();
   
     if (data == '0') {
-      classifier.write(117);
+      door.write(117);
       delay(1000);
       lift.write(40);
       delay(6000);
-      classifier.write(90);
+      door.write(90);
       delay(1000);
       lift.write(90);
       delay(1000);
@@ -31,11 +31,11 @@ void loop() {
     }
 
     else if (data == '1') {
-      classifier.write(55);
+      door.write(55);
       delay(1000);
       lift.write(40);
       delay(6000);
-      classifier.write(90);
+      door.write(90);
       delay(1000);
       lift.write(90);
       delay(1000);
