@@ -27,7 +27,7 @@ def preprocessing(frame):
     frame_reshaped = frame_nomalized.reshape((1, 224, 224, 3))
     return frame_reshaped
 
-#prediction
+#Prediction
 def predict(frame):
     prediction = model.predict(frame)
     return prediction
