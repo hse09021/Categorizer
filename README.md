@@ -54,7 +54,9 @@
 ![image](https://user-images.githubusercontent.com/51695816/145291489-fe51ef6d-be53-4f7a-969c-7332fd08f6d0.png)
 
 ### 시연 영상
-![video](https://user-images.githubusercontent.com/51695816/145302653-acd188c7-5fa9-4533-8095-abf7dc866942.mp4)
+https://user-images.githubusercontent.com/51695816/145302653-acd188c7-5fa9-4533-8095-abf7dc866942.mp4
+
+https://www.youtube.com/watch?v=uG-Ktd_xKt0
 
 ## 결론
 ### 보고 내용 요약
