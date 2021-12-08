@@ -31,7 +31,7 @@
 
 ## 본론
 ### 시스템 개요
-![image](https://user-images.githubusercontent.com/51695816/145291571-5043c863-f42b-42d4-8c2c-d400db8ff3f1.png)
+![image](https://user-images.githubusercontent.com/51695816/145291711-1511a55c-406e-4375-b05b-e1e463572cd7.png)
 
 ### 필요한 기술 요소
 ![image](https://user-images.githubusercontent.com/51695816/145291528-dab74700-8839-408c-8f2c-c6468bc2de1c.png)
