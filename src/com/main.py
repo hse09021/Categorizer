@@ -7,7 +7,7 @@ import serial
 import time
 
 # Setup the serial port
-arduino = serial.Serial('com8', 9600)
+arduino = serial.Serial('com8', 9600) #Check Port Number
 
 # Load the model
 model = load_model('keras_model.h5')
