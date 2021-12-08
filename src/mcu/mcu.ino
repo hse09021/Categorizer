@@ -27,7 +27,6 @@ void loop() {
       delay(1000);
       lift.write(90);
       delay(1000);
-
     }
 
     else if (data == '1') {
@@ -39,7 +38,6 @@ void loop() {
       delay(1000);
       lift.write(90);
       delay(1000);
-
     }
   }
 }
