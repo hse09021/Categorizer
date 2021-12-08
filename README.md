@@ -54,8 +54,7 @@
 ![image](https://user-images.githubusercontent.com/51695816/145291489-fe51ef6d-be53-4f7a-969c-7332fd08f6d0.png)
 
 ### 시연 영상
-https://user-images.githubusercontent.com/51695816/145302653-acd188c7-5fa9-4533-8095-abf7dc866942.mp4
-
+아래 사진을 클릭하면 시연 영상으로 넘어갑니다.
 [![video](https://img.youtube.com/vi/uG-Ktd_xKt0/0.jpg)](https://www.youtube.com/watch?v=uG-Ktd_xKt0)
 
 ## 결론
