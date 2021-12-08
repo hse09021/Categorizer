@@ -56,7 +56,7 @@
 ### 시연 영상
 https://user-images.githubusercontent.com/51695816/145302653-acd188c7-5fa9-4533-8095-abf7dc866942.mp4
 
-https://www.youtube.com/watch?v=uG-Ktd_xKt0
+[![video](https://img.youtube.com/vi/uG-Ktd_xKt0/0.jpg)](https://www.youtube.com/watch?v=uG-Ktd_xKt0)
 
 ## 결론
 ### 보고 내용 요약
