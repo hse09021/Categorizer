@@ -46,12 +46,14 @@
 * 카메라를 이용해 쓰레기 분석부 구현
 * 시리얼 통신을 이용해 MCU 제어 알고리즘 구현
 * 머신러닝 모델 성능 추가 개선
-
 ```
 ### 시연장치 3D 모델
 ![image](https://user-images.githubusercontent.com/51695816/145291458-f2ed3b83-dc11-42ad-8d97-65b69699add5.png)
 ### 시연장치 회로 구조도
 ![image](https://user-images.githubusercontent.com/51695816/145291489-fe51ef6d-be53-4f7a-969c-7332fd08f6d0.png)
+
+### 시연 영상
+https://user-images.githubusercontent.com/51695816/145302653-acd188c7-5fa9-4533-8095-abf7dc866942.mp4
 
 ## 결론
 ### 보고 내용 요약
