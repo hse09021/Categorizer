@@ -54,7 +54,7 @@
 ![image](https://user-images.githubusercontent.com/51695816/145291489-fe51ef6d-be53-4f7a-969c-7332fd08f6d0.png)
 
 ### 시연 영상
-아래 사진을 클릭하면 시연 영상으로 넘어갑니다.\
+아래 사진을 클릭하면 시연 영상이 열립니다.\
 [![video](https://img.youtube.com/vi/uG-Ktd_xKt0/0.jpg)](https://www.youtube.com/watch?v=uG-Ktd_xKt0)
 
 ## 결론
@@ -62,4 +62,4 @@
 대형 분리수거장에서의 재활용률을 높이기 위해선 분리 배출 기준에 맞게 쓰레기가 분류되어야 합니다. 따라서 본 장치는 미처 제대로 분리되지 않은 재활용 쓰레기를 한번 더 자동으로 분류합니다. 비슷한 사례로는 공원에서 서비스 중인 쓰레기 자동 분류 장치가 있지만, 본 장치는 개인이 아닌 대형 분리수거장에서 분류 자동화에 적용하기 쉬운 구조로 차별점을 두었습니다.
 
 ## PPT 자료링크
-[[PPT Download]](https://docs.google.com/presentation/d/1oqMaZnbnSjLDekYm4yTNcLnXJ8hX5mCb/edit?usp=sharing&ouid=108251390155860008883&rtpof=true&sd=true)
+[[Power Point Download]](https://docs.google.com/presentation/d/1oqMaZnbnSjLDekYm4yTNcLnXJ8hX5mCb/edit?usp=sharing&ouid=108251390155860008883&rtpof=true&sd=true)
